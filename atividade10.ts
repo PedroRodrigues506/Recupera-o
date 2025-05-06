@@ -26,7 +26,7 @@ contador++;
 
 if (contadorMaiores > 0) {
     let media: number = somaAlturas / contadorMaiores;
-    console.log(`A média de altura das pessoas maiores de idade é: ${media.toFixed(2)} metros`);
+    console.log(`A média de altura das pessoas maiores de idade é: );
 } else {
     console.log(`Nenhuma pessoa maior de idade foi cadastrada.`);
 }
